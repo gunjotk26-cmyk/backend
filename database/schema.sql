@@ -2,7 +2,7 @@
 -- InterviewHub: Database Schema Definition
 -- Multi-Interviewer Interview Management & Performance Tracking System
 -- Target RDBMS: MySQL 8.0+
--- ====================================================================
+
 
 CREATE DATABASE IF NOT EXISTS interviewhub_db
 CHARACTER SET utf8mb4
